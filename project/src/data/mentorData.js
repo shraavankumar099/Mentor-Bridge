@@ -1,0 +1,80 @@
+export const mentorData = [
+  {
+    id: 1,
+    name: "Dr. Amanda Foster",
+    expertise: "Machine Learning & AI",
+    experience: 8,
+    industry: "Technology",
+    company: "OpenAI",
+    location: "San Francisco, CA",
+    batch: "2015",
+    aiSuggested: true,
+    skills: ["Deep Learning", "NLP", "Computer Vision"],
+    mentees: 15
+  },
+  {
+    id: 2,
+    name: "Robert Kim",
+    expertise: "Financial Technology",
+    experience: 12,
+    industry: "Finance",
+    company: "JPMorgan Chase",
+    location: "New York, NY",
+    batch: "2011",
+    aiSuggested: false,
+    skills: ["Blockchain", "Risk Management", "Algorithmic Trading"],
+    mentees: 8
+  },
+  {
+    id: 3,
+    name: "Jennifer Martinez",
+    expertise: "Product Management",
+    experience: 6,
+    industry: "Technology",
+    company: "Meta",
+    location: "Menlo Park, CA",
+    batch: "2017",
+    aiSuggested: true,
+    skills: ["Product Strategy", "Data-Driven Decision Making", "Cross-functional Leadership"],
+    mentees: 12
+  },
+  {
+    id: 4,
+    name: "Alex Thompson",
+    expertise: "Startup & Entrepreneurship",
+    experience: 10,
+    industry: "Startups",
+    company: "Founder at TechStart",
+    location: "Austin, TX",
+    batch: "2013",
+    aiSuggested: false,
+    skills: ["Business Development", "Fundraising", "Team Building"],
+    mentees: 20
+  },
+  {
+    id: 5,
+    name: "Dr. Priya Sharma",
+    expertise: "Healthcare Technology",
+    experience: 9,
+    industry: "Healthcare",
+    company: "Mayo Clinic",
+    location: "Rochester, MN",
+    batch: "2014",
+    aiSuggested: true,
+    skills: ["Digital Health", "Medical Devices", "Healthcare Analytics"],
+    mentees: 7
+  },
+  {
+    id: 6,
+    name: "Mark Davis",
+    expertise: "Cybersecurity",
+    experience: 11,
+    industry: "Security",
+    company: "CrowdStrike",
+    location: "Sunnyvale, CA",
+    batch: "2012",
+    aiSuggested: false,
+    skills: ["Threat Detection", "Security Architecture", "Incident Response"],
+    mentees: 9
+  }
+];
